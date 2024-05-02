@@ -1,1 +1,2 @@
+--Key can be found in Omen Hub server in #partners channel discord.gg/mirkoking 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mezzopera/Omen-Hub/main/omen_hub.lua"))()
