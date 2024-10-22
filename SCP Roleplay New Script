@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MIM-104/Overhaul/refs/heads/main/publish%201572"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MIM-104/Overhaul/refs/heads/main/publish%201572.lua"))()
